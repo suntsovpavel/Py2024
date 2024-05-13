@@ -1,0 +1,6 @@
+INFO:root:FILE: name: 'C:/Users/01/documents/test_dir\new_file_001', extension: '.txt', parent_directory: 'C:/Users/01/documents/test_dir'
+INFO:root:FILE: name: 'C:/Users/01/documents/test_dir\new_file_002', extension: '.txt', parent_directory: 'C:/Users/01/documents/test_dir'
+INFO:root:DIRECTORY: name: 'alias', parent_directory: 'C:/Users/01/documents/test_dir'
+INFO:root:FILE: name: 'C:/Users/01/documents/test_dir\alias\ASDFA', extension: '.txt', parent_directory: 'C:/Users/01/documents/test_dir\alias'
+INFO:root:DIRECTORY: name: '002', parent_directory: 'C:/Users/01/documents/test_dir\alias'
+INFO:root:FILE: name: 'C:/Users/01/documents/test_dir\alias\002\inner', extension: '.txt', parent_directory: 'C:/Users/01/documents/test_dir\alias\002'
